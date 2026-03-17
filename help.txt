@@ -1,0 +1,3 @@
+two powershells , one cmd
+cd backend -> node server.js
+cd frontend -> Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process  -> npm start
